@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#piano {
+  display: flex;
+  height: 200px;
+  /* width: 700px; */
+  border: 1px solid black;
+  margin: auto;
+}
+
+.white-key {
+  border: 1px solid black;
+  flex: 1;
+}
